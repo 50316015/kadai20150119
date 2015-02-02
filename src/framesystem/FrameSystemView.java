@@ -19,7 +19,7 @@ public class FrameSystemView extends Frame implements ActionListener,WindowListe
 private TextField text1 = new TextField("",5);
 private TextField text2 = new TextField("",5);
 private TextField text3 = new TextField("", 5);
-private Button button1 = new Button("‘«‚µŽZ");
+private Button button1 = new Button("‚½‚µŽZ");
 //M/M/1—p
 private TextField m1 = new TextField("", 5);
 private TextField m2 = new TextField("", 5);
